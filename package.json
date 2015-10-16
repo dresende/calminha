@@ -1,0 +1,9 @@
+{
+	"name"        : "calminha",
+	"version"     : "0.1.0",
+	"description" : "Function calling rate limiter",
+	"main"        : "lib/Calminha.js",
+	"repository"  : "http://github.com/dresende/calminha.git",
+	"author"      : "Diogo Resende <dresende@thinkdigital.pt>",
+	"license"     : "MIT"
+}
